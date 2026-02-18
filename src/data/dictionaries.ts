@@ -9,10 +9,10 @@ export const dictionaries = {
     },
     hero: {
       greeting: 'Hola, soy',
-      name: 'Tu Nombre',
+      name: 'Tony Ruiz',
       tagline: 'Desarrollador de Soluciones Digitales & Analista de Negocios',
       description:
-        'Transformo procesos administrativos complejos en aplicaciones web ágiles. Administrador de Empresas (USAC) + Ingeniería en Sistemas + Educador.',
+        'Transformo procesos administrativos complejos en aplicaciones web ágiles. Administrador de Empresas  + Bases de Ingeniería en Sistemas + Educador.',
       cta: 'Ver Proyectos',
       ctaSecondary: 'Contactar',
     },
@@ -44,10 +44,10 @@ export const dictionaries = {
     },
     hero: {
       greeting: 'Hi, I\'m',
-      name: 'Your Name',
+      name: 'Tony R.',
       tagline: 'Digital Solutions Developer & Business Analyst',
       description:
-        'I transform complex administrative processes into agile web applications. Business Admin (USAC) + Systems Engineering + Educator.',
+        'I transform complex administrative processes into agile web applications. Business Admin + Systems Engineering Bases + Educator.',
       cta: 'View Projects',
       ctaSecondary: 'Contact Me',
     },
