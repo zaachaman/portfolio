@@ -37,7 +37,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 px-8 py-3 rounded-full border border-slate-700 hover:border-emerald-500 text-slate-300 hover:text-emerald-400 font-semibold text-sm transition-all duration-200"
           >
-            href="https://wa.me/502TUNUMERO"
+            <a href="https://wa.me/502TUNUMERO"
   target="_blank"
   rel="noopener noreferrer"
   className="flex items-center justify-center gap-2 px-8 py-3 rounded-full bg-emerald-600 hover:bg-emerald-500 text-white font-semibold text-sm transition-all duration-200"
