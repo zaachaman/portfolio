@@ -36,7 +36,7 @@ export default function Hero() {
 
         {/* Name */}
         <h1 className="font-display text-5xl sm:text-7xl font-bold text-white mb-4 animate-fade-up" style={{ animationDelay: '0.2s', opacity: 0 }}>
-          Tu Nombre
+          Tony Ruiz
         </h1>
 
         {/* Tagline */}
